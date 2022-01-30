@@ -1,0 +1,48 @@
+/* .hero-header {
+    background-image: url("https://burciaga.co/wp-content/themes/rebl-1-3-2c-layout/images/bg-hero.jpg");
+    position: relative;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+h1.text {
+    height: 10h;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+
+.tengah {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-image: url("https://burciaga.co/wp-content/themes/rebl-1-3-2c-layout/images/bg-hero.jpg");
+        height: 200px;
+        width: 600px;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: cover;
+        Background-attachment: scroll;
+
+    }
+}
+
+@media only screen and (max-width: 1536px) {
+    body {
+        background-image: url("https://burciaga.co/wp-content/themes/rebl-1-3-2c-layout/images/bg-hero.jpg");
+        height: 625px;
+        width: 1366px;
+        background-position: 50% 50%;
+        Background-attachment: scroll;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+    }
+} */

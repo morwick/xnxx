@@ -1,0 +1,7 @@
+p {
+    line-height: 650px;
+    /* sama dengan tinggi elemen, posisi di tengah secara vertikal */
+    text-align: center;
+    /* posisi di tengah secara horizontal */
+    color: black;
+}
